@@ -11,7 +11,7 @@ public class TransactionExample {
 
     private static final String HOST = "127.0.0.1";
     private static final int PORT = 5432;
-    private static final String DATABASE = "cursor_jdbc_sql";
+    private static final String DATABASE = "jdbc_sql";
     private static final String USER = "postgres";
     private static final String PASSWORD = "postgres";
 
